@@ -4,7 +4,7 @@ POO : Programmation Orientée Objet
 
 OOP : Object Oriented Programming
 
-POO st un pattern (un style) pour créer un groupe de code basé sur les éléments de la vie réelle, chats, utilisateurs, voitures....
+POO est un pattern (un style) pour créer un groupe de code basé sur les éléments de la vie réelle, chats, utilisateurs, voitures....
 Le principal objectif de la POO est de créer un code réutilisable.
 
 ## Code de programmation procédurale
